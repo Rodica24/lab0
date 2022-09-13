@@ -1,9 +1,9 @@
 # Laboratory work 0
-I decided to install Ubuntu, a Linux-based operating system, based on Debian and composed mostly of free and open-source software. After some obstacles, I finally installed this operating system.
+**1.** I decided to install Ubuntu, a Linux-based operating system, based on Debian and composed mostly of free and open-source software. After some obstacles, I finally installed this operating system.
 
 ![image](https://user-images.githubusercontent.com/113309236/189940311-b7b3bf42-66e6-423c-a57a-ccbac493cccb.png)
 
-Then I installed the “starting pack” of a software engineer on my machine. Beggining with, I installed `zsh` by updating the repository with the command
+**2.** Then I installed the “starting pack” of a software engineer on my machine. Beggining with, I installed `zsh` by updating the repository with the command
 
 ```sudo apt-get update```
 
@@ -19,7 +19,7 @@ Afterwards I installed `oh-my-zsh`.This installation can be carried out using `C
 
 ``` sudo apt install curl wget git```
 
-Next, install `oh-my-zsh` via the command-line with either curl or wget:
+Next, install `oh-my-zsh` via the command-line with wget:
 
 ```sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"```
 
@@ -29,6 +29,11 @@ Then I installed `git`, `gcc` and `Visual Studio Code`
 
 ![image](https://user-images.githubusercontent.com/113309236/189987808-44833bfe-e1bb-4cdd-af57-34d551ee792c.png) ![image](https://user-images.githubusercontent.com/113309236/189987900-5759f3fe-150f-4145-ab42-692cafa4a8e7.png)
 
+**3.**
 
 ![image](https://user-images.githubusercontent.com/113309236/189988495-aa30555c-0eea-4cf1-9dcb-c071faf023c6.png)
+
+and then pushed them to my git repository
+![image](https://user-images.githubusercontent.com/113309236/189991524-ae3f50f2-8e10-4aa5-b22e-26ee7ba50c1a.png)
+
 
